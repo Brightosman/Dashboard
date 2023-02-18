@@ -1,0 +1,5 @@
+CREATE NEXT JS APP 
+npx create-next-app@latest NAME_OF_THE_APP
+
+CREATE NEXT JS APP ON THE SAME FOLDER
+npx create-next-app@latest .
